@@ -1,5 +1,4 @@
-# Credit_Card_Fraud_Analysis
-📌 Credit Card Fraud Analysis
+💳Credit Card Fraud Analysis
 📖 Project Overview
 
 This project analyzes a large credit card transaction dataset to identify patterns of fraudulent activity. Using Excel pivot tables and dashboards, the project highlights:
@@ -9,12 +8,11 @@ Transaction patterns across different time ranges
 Relationship between transaction amounts and fraud likelihood
 Average fraud transaction amounts compared to normal
 The goal of this project is to demonstrate data analysis, visualization, and storytelling skills relevant for business analytics and risk management roles.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b236485b-db51-4617-8c28-36f928e119a9" />
+<img width="1673" height="636" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/642d4afd-d22f-474a-aafd-8c9744b118c5" />
 
 🗂️ Dataset
 
 Source: Kaggle - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
-
 Size: ~200MB (not included here due to GitHub file limits)
 
 Columns Used:
