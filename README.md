@@ -9,6 +9,7 @@ Transaction patterns across different time ranges
 Relationship between transaction amounts and fraud likelihood
 Average fraud transaction amounts compared to normal
 The goal of this project is to demonstrate data analysis, visualization, and storytelling skills relevant for business analytics and risk management roles.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b236485b-db51-4617-8c28-36f928e119a9" />
 
 🗂️ Dataset
 
